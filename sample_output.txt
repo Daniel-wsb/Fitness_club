@@ -1,0 +1,27 @@
+=== Osoby w systemie ===
+Jan Zieliński (Klient planu Basic)
+Ewa Wiśniewska (Klient planu Premium)
+Anna Kowalska (Trener: joga)
+Marek Nowak (Trener: trening siłowy)
+
+=== Zajęcia przed rezerwacją ===
+Joga (łatwa): Poranna joga, trener: Anna Kowalska, miejsca: 0/2, sprzęt: mata do jogi
+Trening siłowy poziom 3: Full Body Workout, trener: Marek Nowak, miejsca: 0/2, sprzęt: hantle i ławka treningowa
+
+=== Utworzone rezerwacje ===
+Rezerwacja R-0001: Jan Zieliński -> Poranna joga, 2026-06-20, 30.0 zł, status: aktywna
+Rezerwacja R-0002: Ewa Wiśniewska -> Full Body Workout, 2026-06-21, 48.0 zł, status: aktywna
+
+=== Zajęcia po rezerwacji ===
+Joga (łatwa): Poranna joga, trener: Anna Kowalska, miejsca: 1/2, sprzęt: mata do jogi
+Trening siłowy poziom 3: Full Body Workout, trener: Marek Nowak, miejsca: 1/2, sprzęt: hantle i ławka treningowa
+
+=== Polimorfizm: ta sama metoda, różne typy zajęć ===
+Joga (łatwa): Poranna joga, trener: Anna Kowalska, miejsca: 1/2, sprzęt: mata do jogi
+Cena dla planu Premium: 24.0 zł
+Trening siłowy poziom 3: Full Body Workout, trener: Marek Nowak, miejsca: 1/2, sprzęt: hantle i ławka treningowa
+Cena dla planu Premium: 48.0 zł
+
+=== Anulowanie rezerwacji ===
+Rezerwacja R-0001: Jan Zieliński -> Poranna joga, 2026-06-20, 30.0 zł, status: anulowana
+Rezerwacja R-0002: Ewa Wiśniewska -> Full Body Workout, 2026-06-21, 48.0 zł, status: aktywna
